@@ -1,0 +1,12 @@
+C:\Users\JohanSebastiánCuella\source\repos\WindowsFormsApp\CapaDato\bin\Debug\CapaDato.dll.config
+C:\Users\JohanSebastiánCuella\source\repos\WindowsFormsApp\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\JohanSebastiánCuella\source\repos\WindowsFormsApp\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\JohanSebastiánCuella\source\repos\WindowsFormsApp\CapaDato\bin\Debug\EntityFramework.dll
+C:\Users\JohanSebastiánCuella\source\repos\WindowsFormsApp\CapaDato\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JohanSebastiánCuella\source\repos\WindowsFormsApp\CapaDato\bin\Debug\EntityFramework.xml
+C:\Users\JohanSebastiánCuella\source\repos\WindowsFormsApp\CapaDato\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JohanSebastiánCuella\source\repos\WindowsFormsApp\CapaDato\obj\Debug\CapaDato.csprojAssemblyReference.cache
+C:\Users\JohanSebastiánCuella\source\repos\WindowsFormsApp\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\JohanSebastiánCuella\source\repos\WindowsFormsApp\CapaDato\obj\Debug\CapaDato.csproj.CopyComplete
+C:\Users\JohanSebastiánCuella\source\repos\WindowsFormsApp\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\JohanSebastiánCuella\source\repos\WindowsFormsApp\CapaDato\obj\Debug\CapaDato.pdb

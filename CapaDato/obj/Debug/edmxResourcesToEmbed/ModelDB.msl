@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TLJ001ModelStoreContainer" CdmEntityContainer="TLJ001Entities">
+    <EntitySetMapping Name="Eps">
+      <EntityTypeMapping TypeName="TLJ001Model.Eps">
+        <MappingFragment StoreEntitySet="Eps">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="TLJ001Model.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="birthday" ColumnName="birthday" />
+          <ScalarProperty Name="eps_id" ColumnName="eps_id" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="AddUser" FunctionName="TLJ001Model.Store.AddUser" />
+    <FunctionImportMapping FunctionImportName="DeleteUser" FunctionName="TLJ001Model.Store.DeleteUser" />
+    <FunctionImportMapping FunctionImportName="SearchAllUser" FunctionName="TLJ001Model.Store.SearchAllUser">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TLJ001Model.SearchAllUser_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="birthday" ColumnName="birthday" />
+          <ScalarProperty Name="eps_name" ColumnName="eps_name" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SearchUser" FunctionName="TLJ001Model.Store.SearchUser">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TLJ001Model.SearchUser_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="birthday" ColumnName="birthday" />
+          <ScalarProperty Name="eps_name" ColumnName="eps_name" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="UpdateUser" FunctionName="TLJ001Model.Store.UpdateUser" />
+  </EntityContainerMapping>
+</Mapping>
