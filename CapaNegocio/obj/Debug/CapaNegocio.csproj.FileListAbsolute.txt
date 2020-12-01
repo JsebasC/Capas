@@ -10,3 +10,15 @@ C:\Users\JohanSebastiánCuella\source\repos\WindowsFormsApp\CapaNegocio\obj\Debu
 C:\Users\JohanSebastiánCuella\source\repos\WindowsFormsApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 C:\Users\JohanSebastiánCuella\source\repos\WindowsFormsApp\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\JohanSebastiánCuella\source\repos\WindowsFormsApp\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\JohanSebastiánCuella\source\repos\ModeloCapas\WindowsFormsApp\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\JohanSebastiánCuella\source\repos\ModeloCapas\WindowsFormsApp\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\JohanSebastiánCuella\source\repos\ModeloCapas\WindowsFormsApp\CapaNegocio\bin\Debug\CapaDato.dll
+C:\Users\JohanSebastiánCuella\source\repos\ModeloCapas\WindowsFormsApp\CapaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\JohanSebastiánCuella\source\repos\ModeloCapas\WindowsFormsApp\CapaNegocio\bin\Debug\CapaDato.pdb
+C:\Users\JohanSebastiánCuella\source\repos\ModeloCapas\WindowsFormsApp\CapaNegocio\bin\Debug\CapaDato.dll.config
+C:\Users\JohanSebastiánCuella\source\repos\ModeloCapas\WindowsFormsApp\CapaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\JohanSebastiánCuella\source\repos\ModeloCapas\WindowsFormsApp\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\JohanSebastiánCuella\source\repos\ModeloCapas\WindowsFormsApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\JohanSebastiánCuella\source\repos\ModeloCapas\WindowsFormsApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\JohanSebastiánCuella\source\repos\ModeloCapas\WindowsFormsApp\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\JohanSebastiánCuella\source\repos\ModeloCapas\WindowsFormsApp\CapaNegocio\obj\Debug\CapaNegocio.pdb
